@@ -11,9 +11,9 @@ Para poder ver o resultado dos seus ficheiros .lua deve instalar o compilador.
 para isso deve aceder a [lua.org/download.html](https://www.lua.org/download.html) e instalar o ficheiro.
 
 ![](https://imgur.com/a/dnd3if3)
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/dnd3if3" data-context="false" ><a href="//imgur.com/a/dnd3if3"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/dnd3if3">
 ![](https://imgur.com/a/KTgSBWE)
-
+<img src="https://imgur.com/a/KTgSBWE">
 A instalação não tem nada que saber, apenas espere até o link do download esteja disponível e instale.
 
 Após a instalação, coloque os ficheiros para a pasta do seu projeto.

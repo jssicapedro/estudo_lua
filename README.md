@@ -32,7 +32,6 @@ ou seja, nome fo exe da versão do compilador(neste caso é a versão 54) seguid
 Como uma boa tradição começamos com o famoso "Helo word".
 Assim como em muitas linguagens de programação, para visualizar um texto usa-se o comando _print()_
 
-```
-print("Olá mundo")
-```
-##### [ex.1](https://github.com/jssicapedro/estudo_lua/blob/main/ex1-hello.lua)
+``` print("Olá mundo")  ```
+
+#### [ex.1](https://github.com/jssicapedro/estudo_lua/blob/main/ex1-hello.lua)

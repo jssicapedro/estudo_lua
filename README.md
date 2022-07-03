@@ -10,10 +10,10 @@ Continua a ser adaptada, a sua ultima atualização foi a versão 5.4.4 a 26 de 
 Para poder ver o resultado dos seus ficheiros .lua deve instalar o compilador.
 para isso deve aceder a [lua.org/download.html](https://www.lua.org/download.html) e instalar o ficheiro.
 
-![](https://imgur.com/a/dnd3if3)
 <img src="https://imgur.com/a/dnd3if3">
-![](https://imgur.com/a/KTgSBWE)
+
 <img src="https://imgur.com/a/KTgSBWE">
+
 A instalação não tem nada que saber, apenas espere até o link do download esteja disponível e instale.
 
 Após a instalação, coloque os ficheiros para a pasta do seu projeto.

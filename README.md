@@ -12,7 +12,7 @@ para isso deve aceder a [lua.org/download.html](https://www.lua.org/download.htm
 
 <img src="https://imgur.com/a/dnd3if3">
 
-<img src="https://imgur.com/a/KTgSBWE">
+<img src="[https://imgur.com/a/KTgSBWE](https://imgur.com/TXVGqfY)">
 
 A instalação não tem nada que saber, apenas espere até o link do download esteja disponível e instale.
 

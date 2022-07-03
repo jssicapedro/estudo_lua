@@ -35,3 +35,4 @@ Assim como em muitas linguagens de programação, para visualizar um texto usa-s
 ```
 print("Olá mundo")
 ```
+##### [ex.1](https://github.com/jssicapedro/estudo_lua/blob/main/ex1-hello.lua)
